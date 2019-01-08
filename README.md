@@ -1,6 +1,6 @@
 # Record Display Website 📖
 
-This record display website uses PHP to read records from a MySQL database and then display them to the webpage by outputting HTML. The title in the table for each record is a hyperlink to the URL for that record so that if you click on the title in a web browser, it should tale you to the page specified by the URL.
+This record display website uses PHP to read records from a MySQL database and then display them to the webpage by outputting HTML. The title in the table for each record is a hyperlink to the URL for that record so that if you click on the title in a web browser, it should take you to the page specified by the URL. Also, sorting and search functions are supported.
 
 ## Technology Stack
 
